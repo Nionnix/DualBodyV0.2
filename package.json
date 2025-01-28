@@ -1,6 +1,6 @@
 {
-  "name": "DualBodyV0.2",
-  "version": "0.2",
+  "name": "meu-site-ia",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",               // Comando para desenvolvimento
     "build": "vite build",       // Comando para build
